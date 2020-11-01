@@ -1,0 +1,104 @@
+{
+    "name": "GENSHIN IMPACT",
+    "characters": [
+      {
+        "stars": " ★ ★ ★ ★ ★",
+        "name": "Diluc",
+        "element":"Pyro",
+        "country": "Mondstadt",
+        "wearpon": "epee a deux mains",
+        "quote": "Je continue d'avancer jusqu'à l'aube",
+        "drop":"available",
+        "pic":"diluc.png"
+      },
+      {
+        "stars": " ★ ★ ★ ★ ★",
+        "name": "Jean",
+        "element":"Ameno",
+        "country": "Mondstadt",
+        "wearpon": "epee",
+        "quote": "O vent entends mon appel!",
+        "drop":"available",
+        "pic":"jean.png"
+      },
+      {
+        "stars": "★ ★ ★ ★ ★",
+        "name": "Venti",
+        "element":"Ameno",
+        "country": "Mondstadt",
+        "wearpon": "arc",
+        "quote": "Vous êtes arrivé a temps. Dites-moi, Voyageur, quel est votre souhait?",
+        "drop":"out",
+        "pic":"diluc.png"
+      },
+      {
+        "stars": "★ ★ ★ ★ ★",
+        "name": "Klee",
+        "element":"Pyro",
+        "country": "Mondstadt",
+        "wearpon": "Livre",
+        "quote": "Je n'ai pas fini de jouer! Laissez-moi sortir!",
+        "drop":"out",
+        "pic":"diluc.png"
+      },
+      {
+        "stars": "★ ★ ★ ★ ★",
+        "name": "Keqing",
+        "element":"Electro",
+        "country": "Liyue",
+        "wearpon": "epee",
+        "quote": "Hmpf. Ce n'est pas agréable à entendre, mais je vais le dire quand même: Morax ne sait pas tout",
+        "drop":"available",
+        "pic":"diluc.png"
+      },
+      {
+        "stars": "★ ★ ★ ★ ★",
+        "name": "Qiqi",
+        "element":"Cryo",
+        "country": "Liyue",
+        "wearpon": "epee",
+        "quote": "Je m'appelle QiQi et je sui sun zombie... Ah, je me souviens pas de la suite",
+        "drop":"available",
+        "pic":"diluc.png"
+      },
+      {
+        "stars": "★ ★ ★ ★ ★",
+        "name": "Xiao",
+        "element":"Ameno",
+        "country": "Liyue",
+        "wearpon": "Lance",
+        "quote": "Je vais vous protéger, mais ne m'mapprochez pas ou vous allez le regretter",
+        "drop":"out",
+        "pic":"diluc.png"
+      },
+      {
+        "stars": " ★ ★ ★ ★ ☆",
+        "name": "NingGuang",
+        "element":"Geo",
+        "country": "Liyue",
+        "wearpon": "livre",
+        "quote": "Il n'y a pas de mal a gagner un mora de plus n'est ce pas?",
+        "drop":"available",
+        "pic":"diluc.png"
+      },
+      {
+        "stars": "★ ★ ★ ★ ☆",
+        "name": "Fischl",
+        "element":"Electro",
+        "country": "Liyue",
+        "wearpon": "epee",
+        "quote": "Je m'appelle QiQi et je sui sun zombie... Ah, je me souviens pas de la suite",
+        "drop":"available",
+        "pic":"diluc.png"
+      }, {
+        "stars": "★ ★ ★ ★ ☆",
+        "name": "Beidu",
+        "element":"Electro",
+        "country": "Liyue",
+        "wearpon": "epee a deux mains",
+        "quote": "La capitaine, c'est moi, mais tu peux être mon second. Ca te va?",
+        "drop":"available",
+        "pic":"diluc.png"
+      }
+    ]
+  }
